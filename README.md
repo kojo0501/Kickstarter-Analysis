@@ -10,7 +10,7 @@ Louise wants to create a Kickstarter campaign to fund her play. She was seeking 
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/24308495/134828307-d2dd49d2-c896-4e9f-adda-30d6eefef2ff.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/24308495/135195700-373fae61-1d61-46b3-8999-c775cac534ad.png)
 
 The based on the number of successful theatre Kickstarters, the best month to launch a campaign is May. Contrary to that, December was the month with the fewest number of successful theatre Kickstarter launches. Although May also had 17 more failed launches than December, it had 74 greater successful launches than December. Through similar analysis of the other months, two conclusions can be drawn: May is the best month to launch, and December is the worst month to launch.
 
